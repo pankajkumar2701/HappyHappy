@@ -218,7 +218,7 @@ namespace HappyHappy.Entities
         /// <summary>
         /// Age of the Patient 
         /// </summary>
-        public decimal? Age { get; set; }
+        public int? Age { get; set; }
         /// <summary>
         /// DOBIsApproximate of the Patient 
         /// </summary>
